@@ -1,4 +1,4 @@
-<h1>A simple markdown editor</h1>
+<h1>Um simples editor de texto</h1>
 <hr></hr>
 
 <h2>Tecnologias usadas: </h2>
